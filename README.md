@@ -1,4 +1,4 @@
-
+![logo](https://github.com/HarshThakur6261/HarshThakur6261/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Harsh Thakur</h1>
 <h3 align="center">A passionate App developer from Bhopal</h3>
 
